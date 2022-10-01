@@ -1,2 +1,2 @@
 # JavaScript
-JavaScript Examples
+JavaScript Assignment Examples
